@@ -2,6 +2,7 @@ import React from "react";
 
 import elkan from "../assets/elkan.jpeg";
 
+
 const Analytics = () => {
   return (
     <div className="w-full bg-[white] py=16 px-4">

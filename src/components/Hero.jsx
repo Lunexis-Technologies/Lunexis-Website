@@ -15,18 +15,6 @@ const Hero = () => {
           <p className="md:text-5xl sm:text-4xl text-xl font-bold py-4">
             The Future of
           </p>
-          <Typed
-            className="md:text-5xl sm:text-4xl text-xl font-bold md:pl-4 pl-2 text-[#FAFE5A]"
-            strings={[
-              "Video Games",
-              "Mobile Apps",
-              "3D Animation",
-              "Softwares",
-            ]}
-            typeSpeed={90}
-            backSpeed={70}
-            loop
-          />
         </div>
         <p className="md:text-2xl text-xl font-bold text-gray-500">
           We're currently working on our debut indie game!

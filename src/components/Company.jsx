@@ -2,6 +2,7 @@ import React from "react";
 
 import Logo from "../assets/logo.png";
 
+
 const Company = () => {
   return (
     <div className="w-full bg-white py=16 px-4">

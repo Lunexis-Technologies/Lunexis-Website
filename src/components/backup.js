@@ -3,6 +3,7 @@ import { AiOutlineClose, AiOutlineMenu } from "react-icons/ai";
 import { Route, Router, Routes } from "react-router-dom";
 import { Link } from "react-router-dom";
 import Newsletter from "./Newsletter";
+
 import {
   FaDiscord,
   FaDribbbleSquare,

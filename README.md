@@ -70,9 +70,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # WebsiteTesting
 <<<<<<< HEAD
+# WebsiteUpdate
+=======
+<<<<<<< HEAD
 # Lunexis-Website
 # LunexisWebsite
 =======
 # WebsiteTesting
 >>>>>>> 3f6bccaf3958796333f87fed711cd89b12491a1e
 # LunexisWebsite
+>>>>>>> 82d509eed14aae9f83adfccab2409171d737fe13

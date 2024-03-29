@@ -6,7 +6,7 @@ const Hero = () => {
     <div className="text-white">
       <div className="max-w-[1000px] mt-[-96px] w-full h-screen mx-auto text-center flex flex-col justify-center">
         <p className="text-[#FAFE5A] font-bold p-2 text-xl">
-          Welcome to Lunexis
+          LUNEXIS
         </p>
         <h1 className="md:text-7xl sm:text-6xl text-4xl font-bold md:py-6">
           We are disrupting<span className="text-[#FAFE5A]">.</span>
